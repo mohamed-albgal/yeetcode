@@ -25,7 +25,7 @@
 
 \# | PROBLEM | DIFFICULTY |URL | SOLUTION
 ----------|----------|----------|----------|----------
-1|some problem | EASY |leetcode.com |
+1|Min. Falling Path Sum | Medium |[leetcode](https://leetcode.com/problems/minimum-falling-path-sum/) | [:unicorn:](solutions/dp/DpSolutions.java)
 
 ----------
 ## SETS / MAPS / COLLECTIONS
@@ -64,3 +64,5 @@
 [Be Agile Not Prolific](https://chivagarg.medium.com/be-agile-not-prolific-f0f88b86aace)
 
 [Interview.school - Topics & Patterns](https://interviews.school/)
+
+[System Design YT Vidoes](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
