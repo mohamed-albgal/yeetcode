@@ -1,36 +1,36 @@
-#PROBLEMS CONTAINED AND THEIR URLS
+# PROBLEMS CONTAINED AND THEIR URLS
 
-##STRING
+## STRING
 PROBLEM | URL |
 ----------| ----------
 - [ ]  some problem | leetcode.com
 ----------
-##GRAPH
+## GRAPH
 PROBLEM | URL |
 ----------| ----------
  - [ ]  some problem | leetcode.com
-##DYNAMIC PROGRAMMING
+## DYNAMIC PROGRAMMING
 ----------
 
 PROBLEM | URL |
 ----------| ----------
 - [ ]  some problem | leetcode.com
 
-##LINKED LIST
+## LINKED LIST
 ----------
 PROBLEM | URL |
 ----------| ----------
  - [ ]  some problem | leetcode.com
-##ARRAYS
+## ARRAYS
 ----------
 PROBLEM | URL |
-----------| ----------
- - [ ]  some problem | leetcode.com
+----------|----------
+- [ ]  some problem | leetcode.com
 
 <br/>
 <br/>
 
-####Structured Problem Solving Tips:
+#### Structured Problem Solving Tips:
 
 <sub>[Prep](https://medium.com/@alimirio/how-to-solve-problems-on-leetcode-to-prepare-for-technical-interviews-e74781b865d2)</sub>
 
