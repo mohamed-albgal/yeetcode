@@ -1,31 +1,33 @@
 # PROBLEMS CONTAINED AND THEIR URLS
 
 ## STRING
-PROBLEM | URL |
-----------| ----------
-- [ ]  some problem | leetcode.com
+
+PROBLEM | URL | SOLUTION
+----------|----------|----------
+some problem | leetcode.com
+some problem | leetcode.com
 ----------
 ## GRAPH
-PROBLEM | URL |
-----------| ----------
- - [ ]  some problem | leetcode.com
+PROBLEM | URL | SOLUTION
+----------|----------|----------
+some problem | leetcode.com
 ## DYNAMIC PROGRAMMING
 ----------
 
-PROBLEM | URL |
-----------| ----------
-- [ ]  some problem | leetcode.com
+PROBLEM | URL | SOLUTION
+----------|----------|----------
+some problem | leetcode.com
 
 ## LINKED LIST
 ----------
-PROBLEM | URL |
-----------| ----------
- - [ ]  some problem | leetcode.com
+PROBLEM | URL | SOLUTION
+----------|----------|----------
+some problem | leetcode.com
 ## ARRAYS
 ----------
-PROBLEM | URL |
-----------|----------
-- [ ]  some problem | leetcode.com
+PROBLEM | URL | SOLUTION
+----------|----------|----------
+some problem | leetcode.com
 
 <br/>
 <br/>
