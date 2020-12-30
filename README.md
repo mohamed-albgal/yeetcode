@@ -11,14 +11,11 @@ PROBLEM | URL |
  - [ ]  some problem | leetcode.com
 ##DYNAMIC PROGRAMMING
 ----------
-**MEMOIZED**
+
 PROBLEM | URL |
 ----------| ----------
 - [ ]  some problem | leetcode.com
-**TABULATED**
-PROBLEM | URL |
-----------| ----------
- - [ ]  some problem | leetcode.com
+
 ##LINKED LIST
 ----------
 PROBLEM | URL |
@@ -32,6 +29,7 @@ PROBLEM | URL |
 
 <br/>
 <br/>
+
 ####Structured Problem Solving Tips:
 
 <sub>[Prep](https://medium.com/@alimirio/how-to-solve-problems-on-leetcode-to-prepare-for-technical-interviews-e74781b865d2)</sub>
