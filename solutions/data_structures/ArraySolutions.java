@@ -71,4 +71,3 @@ public class ArraySolutions {
         return result.toArray(new int[result.size()][2]);
     }
 }
-}
