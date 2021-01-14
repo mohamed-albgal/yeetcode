@@ -26,4 +26,35 @@ public class StringSolutions {
         
         return Arrays.equals(letterboard, cleared);
     }
+
+    //2
+
+    /**
+     * Given aab -> 2A1B
+     * 
+     * do not count dupes gt 9
+     *  (12 'a's) aaaaaaaaaaa -> 9A3A
+     * 
+     * 
+     */
+    public String runLengthEncoding(String string) {
+		StringBuilder sb = new StringBuilder();
+		char[] letters = string.toCharArray();
+		int left = 0;
+		int right = 0;
+		int len = letters.length;
+		
+		while (left < len){
+			char curr = letters[left];
+			while (right < len && right - left + 1 < 10 && letters[right] == curr ){
+				right++;
+			}
+			
+			sb.append(right - left);
+			sb.append(curr);
+			left = right;
+		}
+		
+    return sb.toString();
+	}
 }
