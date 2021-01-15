@@ -70,3 +70,5 @@
 [Interview.school - Topics & Patterns](https://interviews.school/)
 
 [System Design YT Vidoes](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+
+[CodeSignal](https://yanzhan.site/codesignal/)
