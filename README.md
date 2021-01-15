@@ -2,13 +2,15 @@
 
 
 ----------
+
 ## STRING
 
 \# | PROBLEM | DIFFICULTY |URL | SOLUTION
 |----------|----------|----------|----------|----------
 1| Valid Anagrams | easy |[leetcode](https://leetcode.com/problems/valid-anagram/ )| [:unicorn:](solutions/strings/StringSolutions.java)
 2|Run-Length Encoding | easy | N/A | [:unicorn:](solutions/strings/StringSolutions.java)
-
+3|Text-Justify|hard | https://leetcode.com/problems/text-justification/| [:sleeping:](solutions/strings/StringSolutions.java)
+4|reverseWords|medium | https://leetcode.com/problems/reverse-words-in-a-string/|[:unicorn:](solutions/strings/StringSolutions.java)
 
 ----------
 ## GRAPH
