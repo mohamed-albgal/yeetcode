@@ -62,17 +62,11 @@ public class StringSolutions {
     //3 /*yet to solve text-justify*/
     //4
     public String reverseWords(String s) {
-        String normalSpaced = s.trim().replaceAll("\\s+"," ");
+        String[] tokens = s.trim().split("\\s+");
         StringBuilder sb = new StringBuilder();
-        int j = normalSpaced.length();
-        for (int i = normalSpaced.length()-1; i >= 0; i--){
-            char letter = normalSpaced.charAt(i);
-            if (letter == ' ' || i == 0){
-                int start = i == 0 ? i : i +1;
-                sb.append(normalSpaced.substring(start, j));
-                sb.append( i == 0 ? "":" ");
-                j = i;
-            }
+        for (int i = tokens.length-1; i >= 0; i--){
+            sb.append(tokens[i]);
+            sb.append( i==0 ? "":" ");
         }
         return sb.toString();
     }
