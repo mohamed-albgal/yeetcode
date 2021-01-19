@@ -47,6 +47,7 @@
 1|2d Array - Keep Skyline | Medium |[leetcode](https://leetcode.com/problems/max-increase-to-keep-city-skyline/submissions/) |[:unicorn:](solutions/data_structures/ArraySolutions.java)
 2 |Merge Intervals | medium |https://leetcode.com/problems/merge-intervals/ |[:unicorn:](solutions/data_structures/ArraySolutions.java)
 3 |Word Search | medium |https://leetcode.com/problems/word-search/ |[:unicorn:](solutions/data_structures/ArraySolutions.java)
+4 | Sub Array Sort | medium | | [:unicorn:](solutions/data_structures/ArraySolutions.java)
 
 
 ## BINARAY SEARCH
