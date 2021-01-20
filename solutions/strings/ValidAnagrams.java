@@ -2,7 +2,7 @@
 class ValidAnagrams{
 
 
-	    public static boolean isAnagram(String s, String t) {
+	public static boolean isAnagram(String s, String t) {
 
         //array of length 26, representing the indices of the letters in the alphabet (a=0, b=1...z=25)
         int[] alphabet = new int[26];
