@@ -15,7 +15,7 @@ class ValidAnagrams{
         for(char letter: t.toLowerCase().toCharArray())    {
             alphabet[letter-'a']--;
         }
-        //if the array is back to its original state(all zeros), then anagrams are found (in yoda voice)
+        //if the array is back to its original state(all zeros), then anagrams are found
         return s.length() == t.length() && Arrays.equals(alphabet, new int[26]);
     }
 }
