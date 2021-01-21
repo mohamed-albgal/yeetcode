@@ -9,8 +9,8 @@ class Solution {
     public List<String> restoreIpAddresses(String s) {
         if (s.length() > 12) return new ArrayList<String>();
         ArrayList<String> ret = new ArrayList<String>();
-		recur(s, ret, new ArrayList<Integer>());
-		return ret;
+	recur(s, ret, new ArrayList<Integer>());
+	return ret;
     }
 
     public static void recur(String input, List<String> list, List<Integer> subList){
