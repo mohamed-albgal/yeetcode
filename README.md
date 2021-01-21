@@ -18,7 +18,7 @@
 
 \# | PROBLEM | DIFFICULTY |URL | SOLUTION
 ----------|----------|----------|----------|----------
-1|some problem | EASY |leetcode.com |
+
 
 
 ----------
@@ -28,7 +28,8 @@
 
 \# | PROBLEM | DIFFICULTY |URL | SOLUTION
 ----------|----------|----------|----------|----------
-1|Min Falling Path Sum | Medium |[leetcode - Falling Paths](https://leetcode.com/problems/minimum-falling-path-sum/) | [:unicorn:](solutions/dp/MinFallingPathSum.java)
+1| Min Falling Path Sum | Medium |[leetcode - Falling Paths](https://leetcode.com/problems/minimum-falling-path-sum/) | [:unicorn:](solutions/dp/MinFallingPathSum.java)
+2| Restore Ip Address | Medium  | [leetcode - Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/) | [:unicorn:](solutions/dp/Restore-IP-Addresses/Solution.java)
 
 ----------
 ## DATA STRUCTURES
@@ -47,7 +48,6 @@
 
 \# | PROBLEM | DIFFICULTY |URL | SOLUTION
 ----------|----------|----------|----------|----------
-1|some problem | EASY |leetcode.com |
 
 
 <br/>
