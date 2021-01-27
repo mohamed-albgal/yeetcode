@@ -15,9 +15,7 @@ class Solution {
 
     public static void recur(String input, List<String> list, List<Integer> subList){
         if (input.equals("")){
-            if (subList.size() == 4){
-                list.add(subList.stream().map(Object::toString).collect(Collectors.joining(".")));
-            }
+            if (subList.size() == 4) list.add(subList.stream().map(Object::toString).collect(Collectors.joining(".")));
             return;
         }
 
