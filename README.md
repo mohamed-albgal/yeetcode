@@ -41,6 +41,7 @@
 2 |Merge Intervals | medium |[leetcode - merge intervals](https://leetcode.com/problems/merge-intervals/) |[:unicorn:](solutions/data_structures/Arrays/MergeIntervals.java)
 3 |Word Search | medium |[leetcode - word search](https://leetcode.com/problems/word-search/) |[:unicorn:](solutions/data_structures/Arrays/WordSearch.java)
 4 | Sub Array Sort | medium | N/A - desc in comment block | [:unicorn:](solutions/data_structures/Arrays/SubArraySort.java)
+5 | Find Right Interval | Medium | (Leetcode - Find Right Interval)[https://leetcode.com/problems/find-right-interval/] | [:unicorn:](solutions/data_structures/Arrays/FindRightInterval/Solution.java)
 
 
 ## BINARAY SEARCH
