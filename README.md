@@ -11,6 +11,7 @@
 2|Run-Length Encoding | easy | N/A - desc in comment block | [:unicorn:](solutions/strings/strings/RunLengthEncoding.java)
 3|Text-Justify|hard | [leetcode - text-justify](https://leetcode.com/problems/text-justification/)| [:sleeping:](solutions/strings/StringSolutions.java)
 4|reverseWords|medium | [leetcode - reverse words](https://leetcode.com/problems/reverse-words-in-a-string/)|[:unicorn:](solutions/strings/ReverseWords.java)
+5| RomanToInt | easy | [leetcode - roman to int](https://leetcode.com/problems/roman-to-integer/)|[:unicorn:](solutions/strings/RomanToInt/Solution.py)
 
 ----------
 ## GRAPH
