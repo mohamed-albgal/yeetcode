@@ -12,6 +12,7 @@
 3|Text-Justify|hard | [leetcode - text-justify](https://leetcode.com/problems/text-justification/)| [:sleeping:](solutions/strings/StringSolutions.java)
 4|reverseWords|medium | [leetcode - reverse words](https://leetcode.com/problems/reverse-words-in-a-string/)|[:unicorn:](solutions/strings/ReverseWords.java)
 5| RomanToInt | easy | [leetcode - roman to int](https://leetcode.com/problems/roman-to-integer/)|[:unicorn:](solutions/strings/RomanToInt/Solution.py)
+6| Reverse String In place | easy | N/A - desc in comment block |[:unicorn:](solutions/strings/reverseString/Solution.py)
 
 ----------
 ## GRAPH
